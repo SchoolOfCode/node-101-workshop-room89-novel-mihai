@@ -1,0 +1,22 @@
+{
+  "name": "nove-mihai",
+  "version": "1.0.0",
+  "description": "our-first-file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sebastianbutoi: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@github.com/SchoolOfCode/node-101-workshop-room89-novel-mihai.git"
+  },
+  "keywords": [
+    "find-me"
+  ],
+  "author": "novel-mihai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-room89-novel-mihai/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-room89-novel-mihai#readme"
+}
